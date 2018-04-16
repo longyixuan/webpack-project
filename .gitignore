@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+.project
+static/
+npm-debug.log

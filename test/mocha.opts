@@ -1,0 +1,5 @@
+--reporter mochawesome
+--recursive
+--growl
+--watch
+--compilers js:babel-core/register
